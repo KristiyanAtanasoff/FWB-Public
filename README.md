@@ -8,8 +8,6 @@ Teleports {⚠}
 
 Gun Machine {❌}
 
-Jail {⚠}
-
-TruckMaster Job {⚠}
+TruckMaster Job {✔}
 
 Soon..
